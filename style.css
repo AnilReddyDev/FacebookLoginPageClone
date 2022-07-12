@@ -18,7 +18,7 @@
     justify-content: center;
     width:100vw;
     height: 720px;
-    background-color: #14c5dd;
+    /* background-color: #14c5dd; */
     padding-bottom: 122px;
     padding-top: 72px;
     box-sizing: border-box;
@@ -43,4 +43,102 @@
     vertical-align: top;
     width: 396px;
     height: 496px;
+}
+.sm2_1_h2{
+    font-family: Helvetica,Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+}
+.sm2_2_1{
+    width: 396px;
+    height: 456px;
+}
+.sm2_1_img{
+    padding: 112px 0 16px;
+}
+.sm2_2_2{
+    width: 396px;
+    height: 349.8px;
+    padding-bottom: 24px;
+    padding-top: 10px;
+    box-sizing: border-box;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+}
+.sm2_2_3{
+    width: 396px;
+    height: 18.7px;
+    margin-top: 28px;
+    font-family: Helvetica,Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+}
+.cap:hover{
+    text-decoration: underline;
+}
+#emailid{
+    width: 365px;
+    height: 50px;
+    /* margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px; */
+    margin: 10px 15px;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    border-radius: 6px;
+    border: 2px solid #f0f2f5;
+    font-size: 17px;
+    color: #f0f2f5;
+}
+.btnli{
+    width: 364px;
+    height: 50px;
+    margin: 10px 15px;
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+b .ulli1{
+    text-decoration: none;
+}
+.fp{
+    text-align: center;
+    color: #1877f2;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.fp:hover{
+    text-decoration: underline;
+}
+.linesep{
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    display: flex;
+    margin: 0px 20px;
+    text-align: center;
+}
+
+.btncna{    
+    width: 196px;
+    height: 50px;
+    margin: 10px 15px;
+    background-color: #42b72a;
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: 22px 100px;
+
 }
